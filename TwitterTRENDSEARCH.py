@@ -4,11 +4,11 @@ from bs4 import BeautifulSoup
 import time
 #twitter Api keys
 
-consumer_key = "bzBQXbdVB9ApH1iprVV95mPbw"
-consumer_secret = "9ioMTEVXgZaJCxcHQuIuwMFBRZIRua918XBaDrO4FIQ6eu0UCa"
+consumer_key = 
+consumer_secret = 
 
-access_token = "1273922820079263746-H1tMDY1zFzrZhiGyNptC2WShRf5wHu"
-access_token_secret = "sy1eZTyjJMOiNNmOxZSmf26tW78PV3LVdzJSqzWgniXPZ"
+access_token = 
+access_token_secret = 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token,access_token_secret)
